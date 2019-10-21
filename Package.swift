@@ -3,7 +3,7 @@ import PackageDescription
 
 let package = Package(
     name: "MXParallaxHeader",
-    platforms: [.iOS(.v9)],
+    platforms: [.iOS(.v10)],
     products: [
         .library(name: "MXParallaxHeader",
                  targets: ["MXParallaxHeader"])
